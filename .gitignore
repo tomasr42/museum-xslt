@@ -1,0 +1,8 @@
+# Saxon lib
+lib/*
+
+# Output dir
+result/*
+
+# xsl dir
+xsl/*
